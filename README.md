@@ -16,29 +16,9 @@ ADMINISTRADOR
 - Gestión de restaurantes y mesas disponibles
 - Visualización de reservas de clientes
 
-📁 ESTRUCTURA DEL PROYECTO
-
-sistema_reservas_restaurantes/
-├── agregar_reserva.php
-├── agregar_restaurante.php
-├── dashboard.php
-├── dashboard_cliente.php
-├── login.php / login_admin.php
-├── logout.php
-├── perfil_cliente.php
-├── procesar_login.php / procesar_login_cliente.php
-├── registro.php / registro_admin.php
-├── ver_reservas.php
-├── reservas_cliente_ajax.php
-├── assets/
-│   └── css/
-│       └── styles.css
-└── databases/
-    └── Sistema_Reservas_Restaurantes.sql
-
 🛠️ TECNOLOGÍAS UTILIZADAS
 
-- Frontend: HTML5, CSS3
+- Frontend: HTML5, CSS3 y JavaScript
 - Backend: PHP
 - Base de Datos: MySQL
 - Autenticación: Sesiones PHP
