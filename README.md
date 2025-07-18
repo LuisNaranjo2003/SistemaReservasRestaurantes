@@ -60,7 +60,7 @@ Este proyecto puede ser usado libremente con fines académicos.
 
 📬 CONTACTO
 * Desarrollado por: Luis Naranjo     
-* GitHub:github.com/LuisNaranjo2003
+* GitHub: github.com/LuisNaranjo2003
 * Correo: luisfernaram2003@gmail.com 
 * Proyecto académico                 
 
