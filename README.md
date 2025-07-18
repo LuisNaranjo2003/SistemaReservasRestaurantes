@@ -33,7 +33,7 @@ ADMINISTRADOR
 ⚙️ INSTALACIÓN
 
 1. Clonar el repositorio:
-   git clone https://github.com/tu_usuario/sistema_reservas_restaurantes.git
+   git clone https://github.com/LuisNaranjo2003/SistemaReservasRestaurantes.git
 
 2. Mover los archivos al servidor local:
    Copiar la carpeta dentro del directorio htdocs (en XAMPP) o equivalente.
